@@ -1,3 +1,10 @@
-Created in Eclipse with PyDev and Django plugins. The project is currently not runnable.  I should have probably stuck with PHP.
+Created in Eclipse with PyDev and Django plugins.  this code is not currently runnable
 
-My previous attempt by creating a LAM(Python) server virtual machine and directly coding there failed with the virtual machine not booting after installing sshserver.  The code on that server was incomplete as well, as i was not able to find a way to get post data using raw  python.  I also had not worked in AWS bucket, or been able to completely test the GITHUB api code that i had written. 
+Assumptions: 
+
+be able to use this code without modification to process any organization that you have access to (without having to configure each organization for access (not using oauth)
+
+that the user login specified has administrative access to the organization.
+
+
+ 
